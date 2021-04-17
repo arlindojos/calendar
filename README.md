@@ -1,2 +1,2 @@
 # calendar
-Customizable React.js calendar 
+Customizable React.js TypeScript calendar 
